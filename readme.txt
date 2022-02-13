@@ -1,0 +1,2 @@
+启动开启skywalking agent
+-javaagent:/Users/gaolei/Documents/project/env/apache-skywalking-apm-bin/agent/skywalking-agent.jar -Dskywalking_config=/Users/gaolei/Documents/project/java/linkkids/skywalking-demo/demo-webapp/src/main/resources/agent.config
