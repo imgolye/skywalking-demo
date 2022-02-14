@@ -10,6 +10,7 @@
         <module>demo-webapp</module>
         <module>demo-agent</module>
         <module>demo-main</module>
+        <module>demo-byte-buddy</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
